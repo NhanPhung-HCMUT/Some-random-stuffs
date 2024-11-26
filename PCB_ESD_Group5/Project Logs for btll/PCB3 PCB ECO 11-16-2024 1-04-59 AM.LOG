@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VCC3V3 Pin=D3-1
+Removed Pin From Net: NetName=VCC3V3 Pin=D3-2
+Change Component Footprint: Designator=D3 Old Footprint=DIODE 1A New Footprint=DO-214AC-2 (SMA)
+Change component parameters: Designator = "D3" ("D3"); Footprint = "DIODE 1A"; UniqueID = "\IDUQRETP" ("\IDUQRETP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC3V3 Pin=D3-A
+Added Pin To Net: NetName=VCC3V3 Pin=D3-K
+Added Pin To Net: NetName=OUT Pin=H1-3
+Added Pin To Net: NetName=OUT Pin=J1-7
+Added Pin To Net: NetName=OUT Pin=U1-12
+Added Member To Class: ClassName=schematic Member=Component H1 SWD

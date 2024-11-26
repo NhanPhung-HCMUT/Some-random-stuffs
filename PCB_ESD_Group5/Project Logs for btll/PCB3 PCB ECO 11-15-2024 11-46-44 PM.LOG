@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=NRST Pin=RESET-2
+Removed Pin From Net: NetName=NRST Pin=RESET-2
+Change Component Comment : Designator=RESET Old Comment=RS-282G05A3-SM RT New Comment=5ESH935
+Change component parameters: Designator = "RESET" ("RESET"); Footprint = "SW_5ESH935"; UniqueID = "\WPYEVNQV" ("\WPYEVNQV")
+Change component parameters (AddParameter): Name = "Actuator Height off PCB, Vertical"; Value = "6.40mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Length, Right Angle"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Material"; Value = "Polyphenylene Sulfide (PPS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Orientation"; Value = "Top Actuated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Type"; Value = "Plunger for Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category 1"; Value = "Switches"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mec.dk/files/MEC/brochures/MEC_ProductCatalogueno7_multimec-5-series-switches.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mec.dk/files/MEC/brochures/MEC_ProductCatalogueno7_multimec-5-series-switches.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Rating @ Voltage"; Value = "0.05A @ 24VDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "SWITCH TACTILE SPST-NO 0.05A 24V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Sealed - Flux Protection"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Illumination"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Illumination Type, Color"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Illumination Voltage (Nominal)"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ingress Protection"; Value = "IP67 - Dust Tight, Waterproof"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "MEC Switches"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "5ESH935"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mechanical Life"; Value = "10,000,000 Cycles"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Force"; Value = "350gf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 160°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Outline"; Value = "10.10mm x 10.10mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=2.68, 10=2.575, 25=2.3692, 50=2.06, 100=1.957, 250=1.90552, 500=1.854, 1000=1.442, 5000=1.339 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS 1"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "679-2579-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Travel"; Value = "1.00mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D0 Pin=RESET-2
+Added Pin To Net: NetName=D0 Pin=RESET-2
+Added Pin To Net: NetName=NRST Pin=RESET-3
+Added Pin To Net: NetName=NRST Pin=RESET-3
+Added Pin To Net: NetName=NRST Pin=RESET-4
+Added Pin To Net: NetName=NRST Pin=RESET-4

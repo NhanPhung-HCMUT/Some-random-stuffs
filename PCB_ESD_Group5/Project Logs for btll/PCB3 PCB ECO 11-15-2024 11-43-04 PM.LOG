@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=D0 Pin=RESET-2
+Removed Pin From Net: NetName=D0 Pin=RESET-2
+Removed Pin From Net: NetName=NRST Pin=RESET-3
+Removed Pin From Net: NetName=NRST Pin=RESET-3
+Removed Pin From Net: NetName=NRST Pin=RESET-4
+Removed Pin From Net: NetName=NRST Pin=RESET-4
+Change Component Comment : Designator=RESET Old Comment=5ESH935 New Comment=TACTILE SWITCH
+Change component parameters: Designator = "RESET" ("RESET"); Footprint = "SW_5ESH935"; UniqueID = "\FIUTZWSL" ("\FIUTZWSL")
+Change component parameters (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ITT C&K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RS-282G05A3-SMRT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "RS-282G05A3-SMRT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "SP ROAD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NRST Pin=RESET-2
+Added Pin To Net: NetName=NRST Pin=RESET-2
