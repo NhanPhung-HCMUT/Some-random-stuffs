@@ -1,6 +1,0 @@
-Removed Member From Class: ClassName=schematic Member=H?
-Change Component Designator: OldDesignator=H? NewDesignator=H1
-Added Pin To Net: NetName=OUT Pin=H1-3
-Added Pin To Net: NetName=OUT Pin=J1-7
-Added Pin To Net: NetName=OUT Pin=U1-12
-Added Member To Class: ClassName=schematic Member=Component H1 SWD
